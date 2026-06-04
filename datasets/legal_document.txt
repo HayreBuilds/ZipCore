@@ -1,0 +1,71 @@
+FEDERAL DEMOCRATIC REPUBLIC - DIGITAL SERVICES ACT
+Act No. 1234/2026
+
+PREAMBLE
+
+WHEREAS the Government of the Federal Democratic Republic recognizes the fundamental importance of digital transformation in public service delivery;
+
+WHEREAS the protection of citizen data and privacy constitutes a paramount obligation of the State;
+
+WHEREAS efficient data management systems are essential for the proper functioning of government institutions;
+
+NOW, THEREFORE, in accordance with the Constitution, the following Act is hereby enacted:
+
+CHAPTER ONE: GENERAL PROVISIONS
+
+Article 1 - Short Title
+This Act may be cited as the "Digital Services Act No. 1234/2026."
+
+Article 2 - Definitions
+In this Act, unless the context otherwise requires:
+(a) "Digital Service" means any service provided through electronic means by government institutions to citizens, businesses, or other entities;
+(b) "Personal Data" means any information relating to an identified or identifiable natural person;
+(c) "Data Controller" means the government body which determines the purposes and means of processing personal data;
+(d) "Data Processor" means any entity which processes personal data on behalf of the Data Controller;
+(e) "Consent" means any freely given, specific, informed, and unambiguous indication of the data subject's wishes;
+(f) "Processing" means any operation performed on personal data, including collection, recording, organization, structuring, storage, adaptation, retrieval, consultation, use, disclosure, dissemination, alignment, combination, restriction, erasure, or destruction.
+
+Article 3 - Scope of Application
+(1) This Act shall apply to all government institutions that collect, process, store, or transmit citizen data through digital platforms.
+(2) This Act shall extend to private entities contracted by government institutions for data processing purposes.
+(3) This Act shall not apply to data processing activities conducted solely for national security purposes, subject to oversight by the designated authority.
+
+Article 4 - Principles of Data Processing
+All data processing under this Act shall adhere to the following principles:
+(a) Lawfulness, fairness, and transparency;
+(b) Purpose limitation;
+(c) Data minimization;
+(d) Accuracy;
+(e) Storage limitation;
+(f) Integrity and confidentiality;
+(g) Accountability.
+
+CHAPTER TWO: DATA COMPRESSION AND STORAGE
+
+Article 5 - Mandatory Data Optimization
+(1) All government digital platforms shall implement approved data compression mechanisms to optimize storage utilization.
+(2) Only lossless compression algorithms shall be employed for citizen records, legal documents, and any data where integrity is paramount.
+(3) The approved compression methods include, but are not limited to: Huffman Coding, Lempel-Ziv-Welch (LZW), and Arithmetic Coding.
+
+Article 6 - Compression Standards
+(1) Compressed data must achieve a minimum compression ratio of 1.5:1 for standard text documents.
+(2) All compressed data must be accompanied by metadata sufficient for decompression.
+(3) Regular integrity checks shall be performed to ensure that decompressed data exactly matches the original.
+
+Article 7 - Data Transmission
+(1) All inter-agency data transmission shall utilize compressed formats to minimize bandwidth consumption.
+(2) Transmission protocols must include error detection and correction mechanisms.
+(3) Data shall be encrypted prior to compression when transmitted over public networks.
+
+CHAPTER THREE: PENALTIES AND ENFORCEMENT
+
+Article 8 - Violations
+Any person or entity that:
+(a) Employs lossy compression on protected data categories shall be liable to a fine not exceeding 500,000 Birr;
+(b) Fails to maintain decompression capability for archived data shall be liable to a fine not exceeding 300,000 Birr;
+(c) Transmits uncompressed data in violation of Article 7 shall receive a written warning for the first offense and a fine not exceeding 100,000 Birr for subsequent offenses.
+
+Article 9 - Effective Date
+This Act shall come into force on the date of its publication in the Federal Gazette.
+
+ENACTED by the House of Peoples' Representatives on this 1st day of January, 2026.

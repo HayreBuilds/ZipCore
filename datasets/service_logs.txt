@@ -1,0 +1,20 @@
+[2026-05-01 08:00:01] INFO  | ServiceID: AUTH-001 | Action: USER_LOGIN | UserID: USR-44521 | Status: SUCCESS | Duration: 45ms | IP: 192.168.1.100
+[2026-05-01 08:00:02] INFO  | ServiceID: AUTH-001 | Action: USER_LOGIN | UserID: USR-44522 | Status: SUCCESS | Duration: 38ms | IP: 192.168.1.101
+[2026-05-01 08:00:03] WARN  | ServiceID: AUTH-001 | Action: USER_LOGIN | UserID: USR-44523 | Status: FAILED | Duration: 120ms | IP: 192.168.1.102 | Reason: Invalid credentials
+[2026-05-01 08:00:04] INFO  | ServiceID: DOC-002 | Action: DOCUMENT_UPLOAD | UserID: USR-44521 | Status: SUCCESS | Duration: 1200ms | FileSize: 2.4MB | DocType: PDF
+[2026-05-01 08:00:05] INFO  | ServiceID: DOC-002 | Action: DOCUMENT_UPLOAD | UserID: USR-44522 | Status: SUCCESS | Duration: 890ms | FileSize: 1.1MB | DocType: DOCX
+[2026-05-01 08:00:06] ERROR | ServiceID: PAY-003 | Action: PAYMENT_PROCESS | UserID: USR-44524 | Status: FAILED | Duration: 5000ms | Amount: 1500.00 | Reason: Gateway timeout
+[2026-05-01 08:00:07] INFO  | ServiceID: PAY-003 | Action: PAYMENT_PROCESS | UserID: USR-44525 | Status: SUCCESS | Duration: 340ms | Amount: 2300.50 | TransactionID: TXN-99001
+[2026-05-01 08:00:08] INFO  | ServiceID: AUTH-001 | Action: USER_LOGOUT | UserID: USR-44521 | Status: SUCCESS | Duration: 12ms | SessionDuration: 3600s
+[2026-05-01 08:00:09] INFO  | ServiceID: REG-004 | Action: CITIZEN_REGISTER | UserID: USR-44526 | Status: SUCCESS | Duration: 2100ms | NationalID: 1234567890
+[2026-05-01 08:00:10] WARN  | ServiceID: REG-004 | Action: CITIZEN_REGISTER | UserID: USR-44527 | Status: PENDING | Duration: 1800ms | Reason: Awaiting verification
+[2026-05-01 08:00:11] INFO  | ServiceID: DOC-002 | Action: DOCUMENT_RETRIEVE | UserID: USR-44522 | Status: SUCCESS | Duration: 230ms | DocID: DOC-78001
+[2026-05-01 08:00:12] INFO  | ServiceID: DOC-002 | Action: DOCUMENT_RETRIEVE | UserID: USR-44528 | Status: SUCCESS | Duration: 180ms | DocID: DOC-78002
+[2026-05-01 08:00:13] ERROR | ServiceID: AUTH-001 | Action: TOKEN_REFRESH | UserID: USR-44529 | Status: FAILED | Duration: 50ms | Reason: Token expired
+[2026-05-01 08:00:14] INFO  | ServiceID: PAY-003 | Action: PAYMENT_VERIFY | UserID: USR-44525 | Status: SUCCESS | Duration: 150ms | TransactionID: TXN-99001
+[2026-05-01 08:00:15] INFO  | ServiceID: REG-004 | Action: CITIZEN_UPDATE | UserID: USR-44530 | Status: SUCCESS | Duration: 450ms | Field: ADDRESS
+[2026-05-01 08:00:16] INFO  | ServiceID: AUTH-001 | Action: USER_LOGIN | UserID: USR-44531 | Status: SUCCESS | Duration: 42ms | IP: 192.168.1.200
+[2026-05-01 08:00:17] INFO  | ServiceID: AUTH-001 | Action: USER_LOGIN | UserID: USR-44532 | Status: SUCCESS | Duration: 39ms | IP: 192.168.1.201
+[2026-05-01 08:00:18] WARN  | ServiceID: DOC-002 | Action: DOCUMENT_DELETE | UserID: USR-44533 | Status: DENIED | Duration: 30ms | Reason: Insufficient permissions
+[2026-05-01 08:00:19] INFO  | ServiceID: PAY-003 | Action: PAYMENT_PROCESS | UserID: USR-44534 | Status: SUCCESS | Duration: 310ms | Amount: 890.75 | TransactionID: TXN-99002
+[2026-05-01 08:00:20] INFO  | ServiceID: REG-004 | Action: CITIZEN_QUERY | UserID: USR-44535 | Status: SUCCESS | Duration: 95ms | ResultCount: 15

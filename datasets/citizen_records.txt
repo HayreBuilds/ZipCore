@@ -1,0 +1,82 @@
+CITIZEN RECORD DATABASE - NATIONAL DIGITAL PLATFORM
+====================================================
+
+Record ID: CIT-2026-00001
+Full Name: Ahmed Mohammed Al-Hassan
+National ID: 1234567890
+Date of Birth: 1985-03-15
+Gender: Male
+Marital Status: Married
+Address: 45 Republic Street, District 7, Capital City
+Phone: +251-911-234567
+Email: ahmed.hassan@email.gov
+Employment Status: Employed
+Employer: Ministry of Education
+Position: Senior Analyst
+Registration Date: 2024-01-15
+Last Updated: 2026-03-20
+Status: Active
+
+Record ID: CIT-2026-00002
+Full Name: Fatima Ibrahim Osman
+National ID: 0987654321
+Date of Birth: 1990-07-22
+Gender: Female
+Marital Status: Single
+Address: 12 Unity Avenue, Block B, Northern District
+Phone: +251-922-345678
+Email: fatima.osman@email.gov
+Employment Status: Employed
+Employer: Central Bank
+Position: Financial Auditor
+Registration Date: 2024-02-10
+Last Updated: 2026-04-01
+Status: Active
+
+Record ID: CIT-2026-00003
+Full Name: Solomon Tadesse Bekele
+National ID: 1122334455
+Date of Birth: 1978-11-30
+Gender: Male
+Marital Status: Married
+Address: 78 Heritage Road, Apt 3C, Eastern Zone
+Phone: +251-933-456789
+Email: solomon.bekele@email.gov
+Employment Status: Self-Employed
+Employer: Bekele Trading PLC
+Position: Managing Director
+Registration Date: 2024-03-05
+Last Updated: 2026-04-15
+Status: Active
+
+Record ID: CIT-2026-00004
+Full Name: Amina Yusuf Abdullahi
+National ID: 5566778899
+Date of Birth: 1995-01-08
+Gender: Female
+Marital Status: Married
+Address: 23 Freedom Boulevard, Suite 5, Western Quarter
+Phone: +251-944-567890
+Email: amina.abdullahi@email.gov
+Employment Status: Employed
+Employer: National Health Agency
+Position: Public Health Officer
+Registration Date: 2024-04-20
+Last Updated: 2026-05-01
+Status: Active
+
+Record ID: CIT-2026-00005
+Full Name: Daniel Girma Hailu
+National ID: 6677889900
+Date of Birth: 1982-09-14
+Gender: Male
+Marital Status: Divorced
+Address: 56 Innovation Park, Tower A, Technology District
+Phone: +251-955-678901
+Email: daniel.hailu@email.gov
+Employment Status: Employed
+Employer: Ethiopian Space Science Institute
+Position: Research Scientist
+Registration Date: 2024-05-12
+Last Updated: 2026-05-10
+Status: Active
